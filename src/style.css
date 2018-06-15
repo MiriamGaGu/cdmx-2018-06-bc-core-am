@@ -1,0 +1,151 @@
+body{/*este es para todo el body*/
+
+background-image: url("cipher__by_stickdudeseven-d6fhz2p.jpg");
+  background-size: 80px 100px;
+       background-size: 100% 80%;
+
+  }
+h1{ /*es para cifrado cesar*/
+color: white;
+text-align: center;
+text-shadow: 3px 3px 5px black,
+             6px 6px 5px #1a0d00,
+             9px 9px 5px #4d2600;
+font-family: Comic;
+font-size: 80px;
+border-radius: 5px: silver;
+width: 1500px;
+padding: 15px;
+}
+
+h2{ /*¡Bienvenido!*/
+  color: white;
+  text-align: center;
+  background: none;
+  border-radius: 5px;
+  text-shadow: 3px 3px 5px black,
+               6px 6px 5px #1a0d00,
+               9px 9px 5px #4d2600;
+  font-family: Comic;
+  font-size: 40px;
+
+p span{
+  color: white;
+  font-weight: bolder;
+  text-shadow: 3px 3px 5px black,
+               6px 6px 5px #1a0d00,
+               9px 9px 5px #4d2600;
+  font-family: Comic;
+  font-size: 25px;
+  text-align: center;
+  }
+
+}
+p{ /*para los dos parrafos "Dame tu mensaje" y "Pon tu texto para descifrar"*/
+  color: white;
+  text-align: left;
+  text-shadow: 3px 3px 5px black,
+               6px 6px 5px #1a0d00,
+               9px 9px 5px #4d2600;
+  font-family: Comic;
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+#userText{ /*caja donde se eingresa el texto original*/
+  color: none;
+  text-align: center;
+  table-layout: auto;
+  font-family: Comic;
+  font-size: 15px;
+  width: 500px;
+  padding: 15px;
+  margin: 15px;
+  background: white;
+  border-radius: 5px;
+  outline-style: groove;
+  font-family: Comic;
+  font-weight: bolder;
+}
+#descifrar{ /*caja donde se mete el mensaje cifrado*/
+  color: none;
+  text-align: center;
+  font-family: Comic;
+  font-size: 15px;
+  table-layout: auto;
+  width: 500px;
+  padding: 15px;
+  margin: 15px;
+  background: white;
+  border-radius: 5px;
+  outline-style: groove;
+  font-family: Comic;
+  font-weight: bolder;
+}
+
+.notFlat{ /*botón para cifrar*/
+    font-family: Comic;
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: normal;
+    color: color: #261a0d;
+    width: 200px;
+padding: 15px;
+margin: 15px;
+background:#d9b38c;
+border-radius: 5px;
+outline-style: outset;
+position: center;
+cursor: pointer; /*aparece la manita sobre el boton*/
+  }
+.Descifrar{/*boton para descifrar*/
+font-family: Comic;
+font-weight: bolder;
+font-style: normal;
+font-size: 20px;
+color: #261a0d;
+text shadow; white;
+width: 200px;
+padding: 15px;
+margin: 15px;
+background: #d9b38c;
+border-radius: 5px;
+outline-style: outset;
+position: center;
+cursor: pointer;
+
+}
+
+
+#devolver{/*Caja donde se muestra el cifrado */
+  width: 500px;
+      border: 8px solid #60401f;
+      padding: 30px;
+      margin: 30px;
+      background-color: white;
+      border: outset;
+      text-align: center;
+      font-family: Comic;
+      font-weight: bolder;
+}
+
+#descifrado{ /* caja que devuelve descifrado*/
+  width: 500px;
+      border: 8px solid #60401f;
+      padding: 30px;
+      margin: 30px;
+      background-color: white;
+      border: outset;
+      text-align: center;
+      font-family: Comic;
+      font-weight: bolder;
+}
+ footer{ /* pie de página*/
+   color:#3a2613;
+   text-align: right;
+   text-shadow: 3px 3px 5px white,
+                6px 6px 5px black,
+                9px 9px 5px silver;
+   font-family: fantasy, lucida;
+   font-size: 20px;
+ }

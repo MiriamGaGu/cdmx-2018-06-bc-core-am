@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Caesar Cipher</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <h1>Cifrado Cesar</h1>
+<h2>¡Bienvenido!</h2>
+
+<hr>
+<p><span>Instrucciones:</span></p>
+<p>1) En la primera caja pon tu texto sin que contenga números.</p>
+<p>2) Para descencriptar copia y pega tu texto cifrado en el segundo recuadro.</p>
+<hr>
+<section>
+<p>Dame tu mensaje</p>
+<input id="userText" type="text" placeholder="Ingresa tu texto" value= "">
+<input type="button" class ="notFlat" value="Cifrar" onClick="cifrar()">
+</section>
+
+<section>
+  <p>Pon tu texto para descifrar</p>
+  <input id="descifrar" type="text" placeholder="Pon tu texto descifrado aqui" value= "" >
+  <input type="button" class="Descifrar" value="Descifrar" onClick="descifrar()">
+</section>
+
+</section>
+
+<div id="devolver">   </div>
+ <br>
+ <div id="descifrado">   </div>
+ <br><!--salto de linea-->
+ <hr>
+ <footer>Estamos trabajando en mejorar la pàgina  :D</footer>
+ <hr>
+</section>
+
+
+    <script src="cipher.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>
