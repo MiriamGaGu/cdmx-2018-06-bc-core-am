@@ -1,8 +1,7 @@
 body{/*este es para todo el body*/
-
 background-image: url("cipher__by_stickdudeseven-d6fhz2p.jpg");
   background-size: 80px 100px;
-       background-size: 100% 85%;
+       background-size: cover;
 
   }
 h1{ /*es para cifrado cesar*/

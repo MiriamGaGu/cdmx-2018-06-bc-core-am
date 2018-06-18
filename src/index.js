@@ -29,7 +29,7 @@ else if (userText.charCodeAt(i) >=97 && userText.charCodeAt(i) <=122){
   txtCif += text2;
   console.log(minus);
   }//esta cierra else if
-document.getElementById('devolver').innerHTML = "Tu mensaje cifrado es:" + " " + txtCif;
+document.getElementById('devolver').innerHTML = "Tu mensaje cifradodo es:" + " " + txtCif;
 }//esta cierra for
 }// esta cierra funcion
 
