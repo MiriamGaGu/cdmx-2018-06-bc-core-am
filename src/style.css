@@ -5,6 +5,14 @@ background-image: url("cipher__by_stickdudeseven-d6fhz2p.jpg");
 
   }
 h1{ /*es para cifrado cesar*/
+background: url("LogoMakr_3y806r.png");
+background-repeat: no-repeat;
+background-color:#dac292;
+opacity: 0.8;
+background-position: center;
+background-size: 50% 90%;
+background-size: 50%;
+heigt: 50px 50px;
 color: white;
 text-align: center;
 text-shadow: 3px 3px 5px black,
@@ -14,6 +22,7 @@ font-family: Comic;
 font-size: 80px;
 border-radius: 5px: silver;
 width: 1250px;
+height: 85px;
 padding: 15px;
 }
 
