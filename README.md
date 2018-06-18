@@ -2,7 +2,7 @@
 
 ##Bienvenido
 
-*Este web está dedicada a todo aquel que quiera guardar su secretos, comunicars
+*Este web está dedicada a todo aquel que quiera guardar su secretos, comunicarse
 de forma secreta y solo compartir con quien quieran*
 
 1.- El método es muy simple, sólo tienes que ingresas el texto que quierar cifrar dar click en el botón y listo;

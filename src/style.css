@@ -2,7 +2,7 @@ body{/*este es para todo el body*/
 
 background-image: url("cipher__by_stickdudeseven-d6fhz2p.jpg");
   background-size: 80px 100px;
-       background-size: 100% 80%;
+       background-size: 100% 85%;
 
   }
 h1{ /*es para cifrado cesar*/
@@ -14,7 +14,7 @@ text-shadow: 3px 3px 5px black,
 font-family: Comic;
 font-size: 80px;
 border-radius: 5px: silver;
-width: 1500px;
+width: 1250px;
 padding: 15px;
 }
 
@@ -120,8 +120,8 @@ cursor: pointer;
 #devolver{/*Caja donde se muestra el cifrado */
   width: 500px;
       border: 8px solid #60401f;
-      padding: 30px;
-      margin: 30px;
+      padding: 40px;
+      margin: 40px;
       background-color: white;
       border: outset;
       text-align: center;
@@ -132,8 +132,8 @@ cursor: pointer;
 #descifrado{ /* caja que devuelve descifrado*/
   width: 500px;
       border: 8px solid #60401f;
-      padding: 30px;
-      margin: 30px;
+      padding: 40px;
+      margin: 40px;
       background-color: white;
       border: outset;
       text-align: center;
